@@ -12,7 +12,8 @@
 
 Below is the observability dashboard showing real-time system metrics:
 
-![Grafana Dashboard](docs/dashboard.png)
+<img width="1691" height="930" alt="GRAFNA Bank Image Apr 25, 2026, 12_15_00 AM" src="https://github.com/user-attachments/assets/7c0fb61e-0635-4b6e-91b1-2b359e38af9c" />
+
 
 
 ## 🚀 Overview
