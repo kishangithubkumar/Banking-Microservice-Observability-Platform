@@ -1,5 +1,8 @@
 # Complete Microservices Project with Spring Boot
 
+<img width="1691" height="930" alt="GRAFNA Bank Image Apr 25, 2026, 12_15_00 AM" src="https://github.com/user-attachments/assets/7c0fb61e-0635-4b6e-91b1-2b359e38af9c" />
+
+
 ## Overview
 
 This repository will host a comprehensive microservices project developed using Java, Spring Boot, and related technologies. The goal of this project is to implement and showcase a microservices architecture with a focus on best practices and production readiness.
